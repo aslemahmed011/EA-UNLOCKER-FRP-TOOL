@@ -1,2 +1,2 @@
-1.0.2
-https://github.com/aslemahmed011/EA-UNLOCKER-FRP-TOOL/releases/download/1.0.2/EA-UNLOCKER.FRP.TOOl.exe
+1.0.0
+https://github.com/aslemahmed011/EA-UNLOCKER-FRP-TOOL/releases/download/V1.0.0/EA-UNLOCKER.FRP.TOOl.exe
